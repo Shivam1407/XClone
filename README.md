@@ -1,6 +1,8 @@
-# 🚀 [XClone] – A UI Clone of Twitter
+# 🚀 XClone – A UI Clone of Twitter
 
-Welcome to the **[Project Name]** repository! This project aims to [brief description of the project]. It offers a [summary of what it does and why it's useful].
+Welcome to the Twitter Clone project! This project replicates Twitter's user interface, designed to be fully responsive across different screen sizes. Built using HTML and Tailwind CSS, it focuses on modern web design principles and efficient UI development.
+
+Key features include hover effects, sticky positioning, and a streamlined development approach using Tailwind CSS. This project was a great opportunity to enhance my knowledge of responsive web design and efficient CSS utility frameworks.
 
 ## 🛠️ Technologies Used
 - **Frontend**: [HTML, CSS]
